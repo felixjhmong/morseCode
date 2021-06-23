@@ -1,6 +1,6 @@
 # morseCode™
 
-![](/images/logos/morseCode_logo.png)
+![](/images/logos/morseCode_logo_wide.png)
 
 # "Future Messenger for Programmers!"
 
