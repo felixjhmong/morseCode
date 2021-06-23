@@ -1,4 +1,4 @@
-# morseCode
+# morseCode™
 
 ![](/images/logos/morseCode_logo.png)
 
