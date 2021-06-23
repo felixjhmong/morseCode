@@ -2,3 +2,8 @@ Reference Links for GitHub Management
 
 1. README.md (Markdown Language) Cheatsheet = https://www.markdownguide.org/cheat-sheet/
 2. Open-source Online Markdown Editor = https://pandao.github.io/editor.md/en.html
+
+
+Reference Links for creating Messaging Apps
+
+1. DEVELOPING CHAT APPLICATION IN PYTHON WITH SOURCE CODE = https://codinginfinite.com/python-chat-application-tutorial-source-code/
