@@ -1,7 +1,7 @@
 # morseCode
 Future Messenger for Programmers!
 
-![](https://github.com/felixjhmong/morseCode/images/logos/morseCode_logo.png)
+![](/images/logos/morseCode_logo.png)
 
 **Table of Contents**
 
